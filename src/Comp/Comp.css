@@ -1,0 +1,21 @@
+.aa{
+    display: none;
+}
+
+.hide {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    bottom: 0px ;
+    left: 0px;
+    z-index: 0;
+}
+
+.opl {
+    color: black;
+    position: fixed;
+    z-index: 1;
+    bottom: 91px;
+    
+}
